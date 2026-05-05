@@ -102,6 +102,13 @@ DFS is better when we need to go deep into the graph or use recursion.
 
 ---
 
+## Diagram
+
+![1](диаграмма.png)
+
+
+---
+
 ## Conclusion
 
 In this assignment I learned how graphs work and how BFS and DFS behave differently.
